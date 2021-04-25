@@ -1,0 +1,13 @@
+@media screen and (max-width: 670px) {
+    .lesson {
+        width: 100%;
+    }
+
+    .icon-image img {
+        width: 250px;
+    }
+
+    .header-right {
+        display: none;
+    }
+}
